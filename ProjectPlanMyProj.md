@@ -1,15 +1,15 @@
 # **Project Plan -- Team 57**
 
-### **1 **Introduction**** ###
+### 1 Introduction ###
 
 The purpose of this project is to develop a tool which will help students to perfect their essay writing; particularly very long wordy and writing styles. This program will count the average number of words per sentence in a file.  
 
 - **Software Development Process**
-	- *Software Concept* : This project will follow SDLC (Software Development Life Cycle) of Water Fall Model as per the requirement. 
+	- *Software Concept* : The SDLC (Software Development Life Cycle) of this project is Water Fall Model as per the requirement. 
     	- 	Assumption: Students are familiar with how to run Java program on their machine 
     	- 	Target Audiance : Students, Instructors to evaluate
     	- 	Scope : It is limited to the requirements outlined, and will have 2 deliverable. While it is nice to consider all possible real world scenarios but with limitation of resources the project will cover basic exception scenarios
-    	- 	Resources : With the limited resources, this project will be managed by 4 Key players such as Project manager, Document Lead, Development Lead and Testing Lead. It will be executed by using various colaboration tools from **google**, version control system - **gitHub**, IDE - **Eclipse**, software - **Java**, testing - **JUnit**. 
+    	- 	Resources : With the limited resources, this project will be managed by 4 Key players such as Project Manager, Document Lead, Development Lead and Testing Lead. It will be executed by using various colaboration tools from **google**, version control system - **gitHub**, IDE - **Eclipse**, software - **Java**, testing - **JUnit**. 
 
         
 	- *Requirements Analysis* : The requirements document will contain all functional and non functional requirements for the application.  The requirements will be obtained by watching a requirements interview with the requester.  Additional questions will be sent as followup. 
@@ -44,7 +44,7 @@ The purpose of this project is to develop a tool which will help students to per
 
 	- *System Testing* : The system testing will include test cases for counting the average number of words with varying types of delimiters and varying word lengths. Test cases will be created for exception handling as well. An example of some exceptions might include instances where a file might not have any delimiters or the file size is too large to process. The system should have some method of gracefully handling these type of situations.
 
-### **2 **Process Description**** ###
+### 2 Process Description ###
 
 The requirements gathering process will obtain requirements from the online video.  The document lead will determine if any additional information is required and if so, ask up to two questions via a document submission to the instructor.  The entrance criteria for this phase is starting the project.  The exit criteria will be the creation of the requirements document with agreement by all team members.
 
